@@ -2,7 +2,7 @@
 Official implementation of "[Harmonizing Image Forgery Detection &amp; Localization: Fusion of Complementary Approaches](https://media.idlab.ugent.be/fusion-forgery-detection)"
 
 ## Try-out without downloading or cloning
-The fusion method is integrated in the [COM-PRESS dashboard](https://com-press.ilabt.imec.be/home), where anyone can upload images for manipulation analysis.
+The fusion method is integrated in the [COM-PRESS dashboard](https://com-press.ilabt.imec.be/home), where anyone can upload images for manipulation analysis. Or check out the interactive examples [here](https://com-press.ilabt.imec.be/examples).
 
 ![Example of FusionIDLab on COM-PRESS dashboard](https://media.idlab.ugent.be/images/posts/2023-12-25-fusion-forgery-detection.jpg)
 
