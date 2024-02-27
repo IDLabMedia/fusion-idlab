@@ -1,0 +1,6 @@
+[submodule "comprint"]
+	path = comprint
+	url = https://github.com/IDLabMedia/comprint.git
+[submodule "CAT-Net"]
+	path = CAT-Net
+	url = https://github.com/IDLabMedia/CAT-Net
