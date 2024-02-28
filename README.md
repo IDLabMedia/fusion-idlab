@@ -6,6 +6,10 @@ The fusion method is integrated in the [COM-PRESS dashboard](https://com-press.i
 
 ![Example of FusionIDLab on COM-PRESS dashboard](https://media.idlab.ugent.be/images/posts/2023-12-25-fusion-forgery-detection.jpg)
 
+The COM-PRESS consortium consists of the research groups IDLab-MEDIA and mict (both from UGent-imec), and Apache (De Werktitel cv) as media partner. Moreover, the consortium is working with CheckFirst. The project received subsidies from the Flemish government’s Department of Culture, Youth & Media (Departement Cultuur Jeugd & Media).
+
+![COM-PRESS Consortium logos](https://media.idlab.ugent.be/images/posts/2023-11-21-compress-alpha-04.png)
+
 
 ## Examples
 Below, some visual examples of the heatmaps of the individual methods and the proposed fusion method are given.
