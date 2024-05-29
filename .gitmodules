@@ -4,3 +4,6 @@
 [submodule "CAT-Net"]
 	path = CAT-Net
 	url = https://github.com/IDLabMedia/CAT-Net
+[submodule "TruFor"]
+	path = TruFor
+	url = https://github.com/grip-unina/TruFor.git
